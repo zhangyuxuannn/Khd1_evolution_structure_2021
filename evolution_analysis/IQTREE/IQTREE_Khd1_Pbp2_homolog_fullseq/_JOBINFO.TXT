@@ -1,0 +1,14 @@
+Task\ label=full5_alignE_p1209
+Task\ ID=2542284
+Tool=IQTREE_XSEDE
+created\ on=2021-07-26 03:16:06.0
+JobHandle=NGBW-JOB-IQTREE_XSEDE-C1846691DF2C46B68C0A026B21A7A497
+RunNumber=1
+resource=expanse
+User\ ID=142976
+User\ Name=yuxuannn
+email=yuxuanzhanggg@gmail.com
+Output=(results,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=12
+JOBID=4498539

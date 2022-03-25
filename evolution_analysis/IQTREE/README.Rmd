@@ -1,0 +1,33 @@
+# Khd1_evolution_structure_2021/evolutiona_analysis/IQTREE
+
+IQ-Tree (v2.1.2) phylogeny results for full-length/truncated Khd1 and Pbp2 homologs
+
+We ran IQ-Tree using CIPRES server on dataset:
+
+* full-length dataset after domain structure screening   
+input file: 'Khd1_Pbp2_homolog_fullseq_screened_align.fasta'
+output files: 'IQTREE_Khd1_Pbp2_homolog_fullseq'
+figure: 'IQ_Khd1_Pbp2_homolog_fullseq_fig'
+
+* screened dataset trimmed at gap threshold 0.2
+input file: 'Khd1_Pbp2_homolog_screened_trim0.1.fasta'
+output files: 'IQTREE_Khd1_Pbp2_homolog_trim0.1'
+figure: 'IQ_Khd1_Pbp2_homolog_trim0.2_fig'
+
+* screened dataset trimmed at gap threshold 0.2
+input file: 'Khd1_Pbp2_homolog_screened_trim0.2.fasta'
+output files: 'IQTREE_Khd1_Pbp2_homolog_trim0.2'
+figure: 'IQ_Khd1_Pbp2_homolog_trim0.1_fig'
+
+Results and most logfiles are included. We included the tree files and bootstrap estimates, but not the bootstrap replicates.
+1000 ultrafast bootstrap replicates.
+
+* _JOBINFO.TXT
+* output.bionj
+* output.contree
+* output.iqtree
+* output.log 
+* output.mldist
+* output.model.gz
+* output.splits.nex
+* output.treefile

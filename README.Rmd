@@ -1,0 +1,15 @@
+# Khd1_evolution_structure_2021
+
+Evolutionary analysis of Khd1 homologs including Pbp2 homologs and structural analysis of Khd1 homologs
+
+This repository includes all the supplementary data and analysis
+
+## evolution_analysis
+
+Data used for evolutionary analysis and resulting figures
+
+Some analysis are described in files in subdirectories of evolution_analysis
+
+## structure_analysis
+
+Files of predicted Khd1 structures

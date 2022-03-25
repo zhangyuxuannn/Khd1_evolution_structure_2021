@@ -1,0 +1,9 @@
+# Khd1_evolution_structure_2021/evolutiona_analysis/Khd1_Pbp2_homolog
+
+files of Khd1 and Pbp2 homologs, including the initial dataset and the dataset after domain structure screening
+
+All the homologs are selected from PANTHERDB and OrthorDB
+
+The file 'Khd1_Pbp2_homolog_fullseq_initial.fasta' is the initial dataset for evolutionary analysis.
+
+The file 'Khd1_Pbp2_homolog_fullseq_screened.fasta' is the dataset after the removal of sequences with different domain structures from others (screened according to multiple sequence alignment and SMART predicted domain structures)

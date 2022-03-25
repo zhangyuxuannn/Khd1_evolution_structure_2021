@@ -1,0 +1,7 @@
+# Khd1_evolution_structure_2021/structure_analysis
+
+Files of predicted Khd1 structures
+
+'Scerevisiae_Khd1_Alphafold', 'Calbicans_Kh1_Alphafold' and 'Spombe_Khd1_Alphafold' are the AlphaFold predicted structures of three Khd1 homologs.
+
+'Scerevisiae_Khd1_SWISSMODEL' is the SWISS-MODEL predicted structure of S.cerevisiae KHd1 homolog. (this structure is constructed using models based on two templates [PDBs:6ROL and 2JV7])

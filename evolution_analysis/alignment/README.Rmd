@@ -1,0 +1,9 @@
+# Khd1_evolution_structure_2021/evolutiona_analysis/alignment
+
+Multiple sequence alignment of Khd1 and Pbp2 homologs
+
+Performed by MAFFT (v7.471, strategy: E-INS-i)
+
+The file 'Khd1_Pbp2_homolog_fullseq_initial_align.fasta' is the multiple sequence alignment of the initial dataset.
+
+The file 'Khd1_Pbp2_homolog_fullseq_screened_align.fasta' is the multiple sequence alignment of the dataset after screening.

@@ -1,0 +1,9 @@
+# Khd1_evolution_structure_2021/evolutiona_analysis/trim
+
+Trimmed multiple sequence alignments
+
+performed by TrimAl (v1.2.59, gap threshold: 0.1/0.2)
+
+The file 'Khd1_Pbp2_homolog_screened_trim0.1.fasta' is the screened dataset ('Khd1_Pbp2_homolog_fullseq_screened_align.fasta') trimmed at gap threshold 0.1.
+
+The file 'Khd1_Pbp2_homolog_screened_trim0.2.fasta' is the screened dataset ('Khd1_Pbp2_homolog_fullseq_screened_align.fasta') trimmed at gap threshold 0.2.
